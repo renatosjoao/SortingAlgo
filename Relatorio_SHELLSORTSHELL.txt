@@ -1,0 +1,379 @@
+Trabalho final Análise de Algoritmos e Estruturas de Dados.
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 10000 elementos.
+Semente = 4
+Antes da ordenação ...1968078301, 287724083, 410622274, 558519326, ...
+Após ordenação ...482663, 773386, 1010063, 1065450, ...
+
+ Tempo decorrido em  milisegundos = 1
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 10000 elementos.
+Semente = 81
+Antes da ordenação ...1096799004, 2016695790, 1059910009, 1948368831, ...
+Após ordenação ...179233, 264554, 819713, 890317, ...
+
+ Tempo decorrido em  milisegundos = 1
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 10000 elementos.
+Semente = 151
+Antes da ordenação ...212803518, 764150626, 386841201, 1754356572, ...
+Após ordenação ...38905, 45228, 114686, 142480, ...
+
+ Tempo decorrido em  milisegundos = 1
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 10000 elementos.
+Semente = 1601
+Antes da ordenação ...526499812, 1743738789, 1103905682, 1005515464, ...
+Após ordenação ...149695, 208698, 504172, 1594834, ...
+
+ Tempo decorrido em  milisegundos = 1
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 10000 elementos.
+Semente = 2307
+Antes da ordenação ...579891448, 970276794, 416419924, 1020458848, ...
+Após ordenação ...143358, 162597, 344076, 929642, ...
+
+ Tempo decorrido em  milisegundos = 1
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 10000 elementos.
+Semente = 4207
+Antes da ordenação ...393435302, 618456588, 1538739039, 1440473513, ...
+Após ordenação ...39205, 248037, 463147, 965261, ...
+
+ Tempo decorrido em  milisegundos = 1
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 30000 elementos.
+Semente = 4
+Antes da ordenação ...1968078301, 287724083, 410622274, 558519326, ...
+Após ordenação ...62455, 208585, 252879, 280916, ...
+
+ Tempo decorrido em  milisegundos = 4
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 30000 elementos.
+Semente = 81
+Antes da ordenação ...1096799004, 2016695790, 1059910009, 1948368831, ...
+Após ordenação ...136957, 179233, 264554, 276710, ...
+
+ Tempo decorrido em  milisegundos = 4
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 30000 elementos.
+Semente = 151
+Antes da ordenação ...212803518, 764150626, 386841201, 1754356572, ...
+Após ordenação ...38905, 45228, 99281, 114686, ...
+
+ Tempo decorrido em  milisegundos = 4
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 30000 elementos.
+Semente = 1601
+Antes da ordenação ...526499812, 1743738789, 1103905682, 1005515464, ...
+Após ordenação ...123269, 149695, 208698, 297381, ...
+
+ Tempo decorrido em  milisegundos = 4
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 30000 elementos.
+Semente = 2307
+Antes da ordenação ...579891448, 970276794, 416419924, 1020458848, ...
+Após ordenação ...95739, 143358, 162597, 321249, ...
+
+ Tempo decorrido em  milisegundos = 4
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 30000 elementos.
+Semente = 4207
+Antes da ordenação ...393435302, 618456588, 1538739039, 1440473513, ...
+Após ordenação ...39205, 248037, 403220, 463147, ...
+
+ Tempo decorrido em  milisegundos = 4
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 90000 elementos.
+Semente = 4
+Antes da ordenação ...1968078301, 287724083, 410622274, 558519326, ...
+Após ordenação ...62455, 77342, 88877, 105239, ...
+
+ Tempo decorrido em  milisegundos = 18
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 90000 elementos.
+Semente = 81
+Antes da ordenação ...1096799004, 2016695790, 1059910009, 1948368831, ...
+Após ordenação ...49240, 136957, 145924, 179233, ...
+
+ Tempo decorrido em  milisegundos = 16
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 90000 elementos.
+Semente = 151
+Antes da ordenação ...212803518, 764150626, 386841201, 1754356572, ...
+Após ordenação ...13493, 33265, 38905, 45228, ...
+
+ Tempo decorrido em  milisegundos = 17
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 90000 elementos.
+Semente = 1601
+Antes da ordenação ...526499812, 1743738789, 1103905682, 1005515464, ...
+Após ordenação ...123269, 149695, 152192, 208698, ...
+
+ Tempo decorrido em  milisegundos = 16
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 90000 elementos.
+Semente = 2307
+Antes da ordenação ...579891448, 970276794, 416419924, 1020458848, ...
+Após ordenação ...25668, 35089, 47754, 70429, ...
+
+ Tempo decorrido em  milisegundos = 16
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 90000 elementos.
+Semente = 4207
+Antes da ordenação ...393435302, 618456588, 1538739039, 1440473513, ...
+Após ordenação ...20111, 39205, 42129, 49670, ...
+
+ Tempo decorrido em  milisegundos = 16
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 270000 elementos.
+Semente = 4
+Antes da ordenação ...1968078301, 287724083, 410622274, 558519326, ...
+Após ordenação ...17215, 29040, 37754, 53103, ...
+
+ Tempo decorrido em  milisegundos = 53
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 270000 elementos.
+Semente = 81
+Antes da ordenação ...1096799004, 2016695790, 1059910009, 1948368831, ...
+Após ordenação ...5735, 46787, 49240, 62240, ...
+
+ Tempo decorrido em  milisegundos = 55
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 270000 elementos.
+Semente = 151
+Antes da ordenação ...212803518, 764150626, 386841201, 1754356572, ...
+Após ordenação ...13493, 24288, 33265, 38905, ...
+
+ Tempo decorrido em  milisegundos = 54
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 270000 elementos.
+Semente = 1601
+Antes da ordenação ...526499812, 1743738789, 1103905682, 1005515464, ...
+Após ordenação ...3090, 32118, 46611, 89000, ...
+
+ Tempo decorrido em  milisegundos = 51
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 270000 elementos.
+Semente = 2307
+Antes da ordenação ...579891448, 970276794, 416419924, 1020458848, ...
+Após ordenação ...4321, 13781, 25668, 35089, ...
+
+ Tempo decorrido em  milisegundos = 52
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 270000 elementos.
+Semente = 4207
+Antes da ordenação ...393435302, 618456588, 1538739039, 1440473513, ...
+Após ordenação ...11058, 11898, 17866, 20111, ...
+
+ Tempo decorrido em  milisegundos = 56
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 810000 elementos.
+Semente = 4
+Antes da ordenação ...1968078301, 287724083, 410622274, 558519326, ...
+Após ordenação ...1950, 4854, 10207, 17215, ...
+
+ Tempo decorrido em  milisegundos = 182
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 810000 elementos.
+Semente = 81
+Antes da ordenação ...1096799004, 2016695790, 1059910009, 1948368831, ...
+Após ordenação ...141, 1159, 1476, 1827, ...
+
+ Tempo decorrido em  milisegundos = 186
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 810000 elementos.
+Semente = 151
+Antes da ordenação ...212803518, 764150626, 386841201, 1754356572, ...
+Após ordenação ...6245, 13493, 13712, 16317, ...
+
+ Tempo decorrido em  milisegundos = 187
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 810000 elementos.
+Semente = 1601
+Antes da ordenação ...526499812, 1743738789, 1103905682, 1005515464, ...
+Após ordenação ...2444, 3090, 5400, 10608, ...
+
+ Tempo decorrido em  milisegundos = 183
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 810000 elementos.
+Semente = 2307
+Antes da ordenação ...579891448, 970276794, 416419924, 1020458848, ...
+Após ordenação ...1541, 4287, 4321, 5247, ...
+
+ Tempo decorrido em  milisegundos = 188
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 810000 elementos.
+Semente = 4207
+Antes da ordenação ...393435302, 618456588, 1538739039, 1440473513, ...
+Após ordenação ...7182, 11058, 11898, 14749, ...
+
+ Tempo decorrido em  milisegundos = 181
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 2430000 elementos.
+Semente = 4
+Antes da ordenação ...1968078301, 287724083, 410622274, 558519326, ...
+Após ordenação ...545, 1950, 2634, 2669, ...
+
+ Tempo decorrido em  milisegundos = 634
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 2430000 elementos.
+Semente = 81
+Antes da ordenação ...1096799004, 2016695790, 1059910009, 1948368831, ...
+Após ordenação ...141, 1159, 1476, 1707, ...
+
+ Tempo decorrido em  milisegundos = 637
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 2430000 elementos.
+Semente = 151
+Antes da ordenação ...212803518, 764150626, 386841201, 1754356572, ...
+Após ordenação ...480, 1514, 2327, 3501, ...
+
+ Tempo decorrido em  milisegundos = 632
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 2430000 elementos.
+Semente = 1601
+Antes da ordenação ...526499812, 1743738789, 1103905682, 1005515464, ...
+Após ordenação ...700, 2444, 3090, 3557, ...
+
+ Tempo decorrido em  milisegundos = 657
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 2430000 elementos.
+Semente = 2307
+Antes da ordenação ...579891448, 970276794, 416419924, 1020458848, ...
+Após ordenação ...320, 1541, 4287, 4321, ...
+
+ Tempo decorrido em  milisegundos = 622
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 2430000 elementos.
+Semente = 4207
+Antes da ordenação ...393435302, 618456588, 1538739039, 1440473513, ...
+Após ordenação ...901, 5480, 7182, 8276, ...
+
+ Tempo decorrido em  milisegundos = 643
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 7290000 elementos.
+Semente = 4
+Antes da ordenação ...1968078301, 287724083, 410622274, 558519326, ...
+Após ordenação ...545, 1077, 1652, 1768, ...
+
+ Tempo decorrido em  milisegundos = 2442
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 7290000 elementos.
+Semente = 81
+Antes da ordenação ...1096799004, 2016695790, 1059910009, 1948368831, ...
+Após ordenação ...141, 162, 257, 763, ...
+
+ Tempo decorrido em  milisegundos = 2303
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 7290000 elementos.
+Semente = 151
+Antes da ordenação ...212803518, 764150626, 386841201, 1754356572, ...
+Após ordenação ...480, 588, 731, 1059, ...
+
+ Tempo decorrido em  milisegundos = 2317
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 7290000 elementos.
+Semente = 1601
+Antes da ordenação ...526499812, 1743738789, 1103905682, 1005515464, ...
+Após ordenação ...74, 687, 700, 1135, ...
+
+ Tempo decorrido em  milisegundos = 2366
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 7290000 elementos.
+Semente = 2307
+Antes da ordenação ...579891448, 970276794, 416419924, 1020458848, ...
+Após ordenação ...33, 320, 384, 653, ...
+
+ Tempo decorrido em  milisegundos = 2314
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 7290000 elementos.
+Semente = 4207
+Antes da ordenação ...393435302, 618456588, 1538739039, 1440473513, ...
+Após ordenação ...901, 1485, 1657, 1675, ...
+
+ Tempo decorrido em  milisegundos = 2318
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 21870000 elementos.
+Semente = 4
+Antes da ordenação ...1968078301, 287724083, 410622274, 558519326, ...
+Após ordenação ...119, 180, 211, 234, ...
+
+ Tempo decorrido em  milisegundos = 8346
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 21870000 elementos.
+Semente = 81
+Antes da ordenação ...1096799004, 2016695790, 1059910009, 1948368831, ...
+Após ordenação ...77, 141, 152, 162, ...
+
+ Tempo decorrido em  milisegundos = 8767
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 21870000 elementos.
+Semente = 151
+Antes da ordenação ...212803518, 764150626, 386841201, 1754356572, ...
+Após ordenação ...188, 262, 467, 480, ...
+
+ Tempo decorrido em  milisegundos = 8393
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 21870000 elementos.
+Semente = 1601
+Antes da ordenação ...526499812, 1743738789, 1103905682, 1005515464, ...
+Após ordenação ...74, 180, 389, 428, ...
+
+ Tempo decorrido em  milisegundos = 8253
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 21870000 elementos.
+Semente = 2307
+Antes da ordenação ...579891448, 970276794, 416419924, 1020458848, ...
+Após ordenação ...33, 155, 320, 384, ...
+
+ Tempo decorrido em  milisegundos = 8382
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 21870000 elementos.
+Semente = 4207
+Antes da ordenação ...393435302, 618456588, 1538739039, 1440473513, ...
+Após ordenação ...91, 153, 245, 397, ...
+
+ Tempo decorrido em  milisegundos = 8437
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 65610000 elementos.
+Semente = 4
+Antes da ordenação ...1968078301, 287724083, 410622274, 558519326, ...
+Após ordenação ...57, 71, 93, 119, ...
+
+ Tempo decorrido em  milisegundos = 29712
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 65610000 elementos.
+Semente = 81
+Antes da ordenação ...1096799004, 2016695790, 1059910009, 1948368831, ...
+Após ordenação ...14, 77, 129, 141, ...
+
+ Tempo decorrido em  milisegundos = 29878
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 65610000 elementos.
+Semente = 151
+Antes da ordenação ...212803518, 764150626, 386841201, 1754356572, ...
+Após ordenação ...36, 47, 139, 188, ...
+
+ Tempo decorrido em  milisegundos = 30774
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 65610000 elementos.
+Semente = 1601
+Antes da ordenação ...526499812, 1743738789, 1103905682, 1005515464, ...
+Após ordenação ...74, 90, 127, 180, ...
+
+ Tempo decorrido em  milisegundos = 29873
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 65610000 elementos.
+Semente = 2307
+Antes da ordenação ...579891448, 970276794, 416419924, 1020458848, ...
+Após ordenação ...33, 34, 40, 70, ...
+
+ Tempo decorrido em  milisegundos = 30670
+
+Ordenação SHELLSORT  [ SHELL ] para um vetor de 65610000 elementos.
+Semente = 4207
+Antes da ordenação ...393435302, 618456588, 1538739039, 1440473513, ...
+Após ordenação ...9, 17, 50, 88, ...
+
+ Tempo decorrido em  milisegundos = 29768

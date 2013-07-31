@@ -1,0 +1,255 @@
+Trabalho final Análise de Algoritmos e Estruturas de Dados.
+
+Ordenação BUBBLESORT para um vetor de 10000 elementos.
+Semente = 4
+Antes da ordenação ...1968078301, 287724083, 410622274, 558519326, ...
+Após ordenação ...482663, 773386, 1010063, 1065450, ...
+
+ Tempo decorrido em  milisegundos = 195
+
+Ordenação BUBBLESORT para um vetor de 10000 elementos.
+Semente = 81
+Antes da ordenação ...1096799004, 2016695790, 1059910009, 1948368831, ...
+Após ordenação ...179233, 264554, 819713, 890317, ...
+
+ Tempo decorrido em  milisegundos = 179
+
+Ordenação BUBBLESORT para um vetor de 10000 elementos.
+Semente = 151
+Antes da ordenação ...212803518, 764150626, 386841201, 1754356572, ...
+Após ordenação ...38905, 45228, 114686, 142480, ...
+
+ Tempo decorrido em  milisegundos = 176
+
+Ordenação BUBBLESORT para um vetor de 10000 elementos.
+Semente = 1601
+Antes da ordenação ...526499812, 1743738789, 1103905682, 1005515464, ...
+Após ordenação ...149695, 208698, 504172, 1594834, ...
+
+ Tempo decorrido em  milisegundos = 179
+
+Ordenação BUBBLESORT para um vetor de 10000 elementos.
+Semente = 2307
+Antes da ordenação ...579891448, 970276794, 416419924, 1020458848, ...
+Após ordenação ...143358, 162597, 344076, 929642, ...
+
+ Tempo decorrido em  milisegundos = 176
+
+Ordenação BUBBLESORT para um vetor de 10000 elementos.
+Semente = 4207
+Antes da ordenação ...393435302, 618456588, 1538739039, 1440473513, ...
+Após ordenação ...39205, 248037, 463147, 965261, ...
+
+ Tempo decorrido em  milisegundos = 175
+
+Ordenação BUBBLESORT para um vetor de 30000 elementos.
+Semente = 4
+Antes da ordenação ...1968078301, 287724083, 410622274, 558519326, ...
+Após ordenação ...62455, 208585, 252879, 280916, ...
+
+ Tempo decorrido em  milisegundos = 1578
+
+Ordenação BUBBLESORT para um vetor de 30000 elementos.
+Semente = 81
+Antes da ordenação ...1096799004, 2016695790, 1059910009, 1948368831, ...
+Após ordenação ...136957, 179233, 264554, 276710, ...
+
+ Tempo decorrido em  milisegundos = 1577
+
+Ordenação BUBBLESORT para um vetor de 30000 elementos.
+Semente = 151
+Antes da ordenação ...212803518, 764150626, 386841201, 1754356572, ...
+Após ordenação ...38905, 45228, 99281, 114686, ...
+
+ Tempo decorrido em  milisegundos = 1579
+
+Ordenação BUBBLESORT para um vetor de 30000 elementos.
+Semente = 1601
+Antes da ordenação ...526499812, 1743738789, 1103905682, 1005515464, ...
+Após ordenação ...123269, 149695, 208698, 297381, ...
+
+ Tempo decorrido em  milisegundos = 1588
+
+Ordenação BUBBLESORT para um vetor de 30000 elementos.
+Semente = 2307
+Antes da ordenação ...579891448, 970276794, 416419924, 1020458848, ...
+Após ordenação ...95739, 143358, 162597, 321249, ...
+
+ Tempo decorrido em  milisegundos = 1581
+
+Ordenação BUBBLESORT para um vetor de 30000 elementos.
+Semente = 4207
+Antes da ordenação ...393435302, 618456588, 1538739039, 1440473513, ...
+Após ordenação ...39205, 248037, 403220, 463147, ...
+
+ Tempo decorrido em  milisegundos = 1578
+
+Ordenação BUBBLESORT para um vetor de 90000 elementos.
+Semente = 4
+Antes da ordenação ...1968078301, 287724083, 410622274, 558519326, ...
+Após ordenação ...62455, 77342, 88877, 105239, ...
+
+ Tempo decorrido em  milisegundos = 14354
+
+Ordenação BUBBLESORT para um vetor de 90000 elementos.
+Semente = 81
+Antes da ordenação ...1096799004, 2016695790, 1059910009, 1948368831, ...
+Após ordenação ...49240, 136957, 145924, 179233, ...
+
+ Tempo decorrido em  milisegundos = 14219
+
+Ordenação BUBBLESORT para um vetor de 90000 elementos.
+Semente = 151
+Antes da ordenação ...212803518, 764150626, 386841201, 1754356572, ...
+Após ordenação ...13493, 33265, 38905, 45228, ...
+
+ Tempo decorrido em  milisegundos = 14264
+
+Ordenação BUBBLESORT para um vetor de 90000 elementos.
+Semente = 1601
+Antes da ordenação ...526499812, 1743738789, 1103905682, 1005515464, ...
+Após ordenação ...123269, 149695, 152192, 208698, ...
+
+ Tempo decorrido em  milisegundos = 14314
+
+Ordenação BUBBLESORT para um vetor de 90000 elementos.
+Semente = 2307
+Antes da ordenação ...579891448, 970276794, 416419924, 1020458848, ...
+Após ordenação ...25668, 35089, 47754, 70429, ...
+
+ Tempo decorrido em  milisegundos = 14337
+
+Ordenação BUBBLESORT para um vetor de 90000 elementos.
+Semente = 4207
+Antes da ordenação ...393435302, 618456588, 1538739039, 1440473513, ...
+Após ordenação ...20111, 39205, 42129, 49670, ...
+
+ Tempo decorrido em  milisegundos = 14302
+
+Ordenação BUBBLESORT para um vetor de 270000 elementos.
+Semente = 4
+Antes da ordenação ...1968078301, 287724083, 410622274, 558519326, ...
+Após ordenação ...17215, 29040, 37754, 53103, ...
+
+ Tempo decorrido em  milisegundos = 128992
+
+Ordenação BUBBLESORT para um vetor de 270000 elementos.
+Semente = 81
+Antes da ordenação ...1096799004, 2016695790, 1059910009, 1948368831, ...
+Após ordenação ...5735, 46787, 49240, 62240, ...
+
+ Tempo decorrido em  milisegundos = 128809
+
+Ordenação BUBBLESORT para um vetor de 270000 elementos.
+Semente = 151
+Antes da ordenação ...212803518, 764150626, 386841201, 1754356572, ...
+Após ordenação ...13493, 24288, 33265, 38905, ...
+
+ Tempo decorrido em  milisegundos = 128837
+
+Ordenação BUBBLESORT para um vetor de 270000 elementos.
+Semente = 1601
+Antes da ordenação ...526499812, 1743738789, 1103905682, 1005515464, ...
+Após ordenação ...3090, 32118, 46611, 89000, ...
+
+ Tempo decorrido em  milisegundos = 128837
+
+Ordenação BUBBLESORT para um vetor de 270000 elementos.
+Semente = 2307
+Antes da ordenação ...579891448, 970276794, 416419924, 1020458848, ...
+Após ordenação ...4321, 13781, 25668, 35089, ...
+
+ Tempo decorrido em  milisegundos = 128723
+
+Ordenação BUBBLESORT para um vetor de 270000 elementos.
+Semente = 4207
+Antes da ordenação ...393435302, 618456588, 1538739039, 1440473513, ...
+Após ordenação ...11058, 11898, 17866, 20111, ...
+
+ Tempo decorrido em  milisegundos = 128811
+
+Ordenação BUBBLESORT para um vetor de 810000 elementos.
+Semente = 4
+Antes da ordenação ...1968078301, 287724083, 410622274, 558519326, ...
+Após ordenação ...1950, 4854, 10207, 17215, ...
+
+ Tempo decorrido em  milisegundos = 1.19039e+06
+
+Ordenação BUBBLESORT para um vetor de 810000 elementos.
+Semente = 81
+Antes da ordenação ...1096799004, 2016695790, 1059910009, 1948368831, ...
+Após ordenação ...141, 1159, 1476, 1827, ...
+
+ Tempo decorrido em  milisegundos = 1.18293e+06
+
+Ordenação BUBBLESORT para um vetor de 810000 elementos.
+Semente = 151
+Antes da ordenação ...212803518, 764150626, 386841201, 1754356572, ...
+Após ordenação ...6245, 13493, 13712, 16317, ...
+
+ Tempo decorrido em  milisegundos = 1.18384e+06
+
+Ordenação BUBBLESORT para um vetor de 810000 elementos.
+Semente = 1601
+Antes da ordenação ...526499812, 1743738789, 1103905682, 1005515464, ...
+Após ordenação ...2444, 3090, 5400, 10608, ...
+
+ Tempo decorrido em  milisegundos = 1.18131e+06
+
+Ordenação BUBBLESORT para um vetor de 810000 elementos.
+Semente = 2307
+Antes da ordenação ...579891448, 970276794, 416419924, 1020458848, ...
+Após ordenação ...1541, 4287, 4321, 5247, ...
+
+ Tempo decorrido em  milisegundos = 1.19467e+06
+
+Ordenação BUBBLESORT para um vetor de 810000 elementos.
+Semente = 4207
+Antes da ordenação ...393435302, 618456588, 1538739039, 1440473513, ...
+Após ordenação ...7182, 11058, 11898, 14749, ...
+
+ Tempo decorrido em  milisegundos = 1.19073e+06
+
+Ordenação BUBBLESORT para um vetor de 2430000 elementos.
+Semente = 4
+Antes da ordenação ...1968078301, 287724083, 410622274, 558519326, ...
+Após ordenação ...545, 1950, 2634, 2669, ...
+
+ Tempo decorrido em  milisegundos = 1.09325e+07
+
+Ordenação BUBBLESORT para um vetor de 2430000 elementos.
+Semente = 81
+Antes da ordenação ...1096799004, 2016695790, 1059910009, 1948368831, ...
+Após ordenação ...141, 1159, 1476, 1707, ...
+
+ Tempo decorrido em  milisegundos = 1.10573e+07
+
+Ordenação BUBBLESORT para um vetor de 2430000 elementos.
+Semente = 151
+Antes da ordenação ...212803518, 764150626, 386841201, 1754356572, ...
+Após ordenação ...480, 1514, 2327, 3501, ...
+
+ Tempo decorrido em  milisegundos = 1.10974e+07
+
+Ordenação BUBBLESORT para um vetor de 2430000 elementos.
+Semente = 1601
+Antes da ordenação ...526499812, 1743738789, 1103905682, 1005515464, ...
+Após ordenação ...700, 2444, 3090, 3557, ...
+
+ Tempo decorrido em  milisegundos = 1.10245e+07
+
+Ordenação BUBBLESORT para um vetor de 2430000 elementos.
+Semente = 2307
+Antes da ordenação ...579891448, 970276794, 416419924, 1020458848, ...
+Após ordenação ...320, 1541, 4287, 4321, ...
+
+ Tempo decorrido em  milisegundos = 1.10706e+07
+
+Ordenação BUBBLESORT para um vetor de 2430000 elementos.
+Semente = 4207
+Antes da ordenação ...393435302, 618456588, 1538739039, 1440473513, ...
+Após ordenação ...901, 5480, 7182, 8276, ...
+
+ Tempo decorrido em  milisegundos = 1.10253e+07
+
+ A partir de 7290000 elementos a analise sera empirica.
